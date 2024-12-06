@@ -1,48 +1,36 @@
 # All Email Templates
 
-This repository contains various email templates in GIF format. Click on any image to view it in full size.
+This repository contains various email templates in GIF format. Click on any image to view it live.
 
 ---
 
 ## Event Invitation Email Template
 
-[![Event Invitation Email Template](course.gif)](course.gif)
+[![Event Invitation Email Template](course.gif)](https://shahebali247bd.github.io/Mastering-Email-Template-101/)
 
 ---
 
 ## Welcome Email Template
 
-[![Event Invitation Email Template](profile.gif)](profile.gif)
+[![Welcome Email Template](profile.gif)](https://shahebali247bd.github.io/email-template-portfolio/)
 
 ---
 
 ## Newsletter Email Template
 
-[![Newsletter Email Template Dacia Car](dacia.gif)](dacia.gif)
+[![Newsletter Email Template - Dacia Car](dacia.gif)](https://shahebali247bd.github.io/dacia-edm/)
 
 ---
 
 ## Promotional Email Template
 
-[![Promotional Email Template](first-project.gif)](first-project.gif)
-
----
-
-<!-- ## Feedback Request Email Template
-
-[![Feedback Request Email Template](feedback-request-email-template.gif)](feedback-request-email-template.gif)
-
----
-
-## Contact Us Email Template
-
-[![Contact Us Email Template](contact-us-email-template.gif)](contact-us-email-template.gif) -->
+[![Promotional Email Template](first-project.gif)](https://shahebali247bd.github.io/course-project-1/)
 
 ---
 
 ### How to Use
 
-1. Click on any image to view the GIF.
+1. Click on any image to view the live version.
 2. Download or integrate the templates into your email campaigns.
 
 ### Contributions
