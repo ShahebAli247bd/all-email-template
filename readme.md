@@ -4,27 +4,27 @@ This repository contains various email templates in GIF format. Click on any ima
 
 ---
 
+## Event Invitation Email Template
+
+[![Event Invitation Email Template](course.gif)](course.gif)
+
+---
+
 ## Welcome Email Template
 
-[![Welcome Email Template](welcome-email-template.gif)](welcome-email-template.gif)
+[![Event Invitation Email Template](profile.gif)](profile.gif)
 
 ---
 
 ## Newsletter Email Template
 
-[![Newsletter Email Template](newsletter-email-template.gif)](newsletter-email-template.gif)
+[![Newsletter Email Template Dacia Car](dacia.gif)](dacia.gif)
 
 ---
 
 ## Promotional Email Template
 
-[![Promotional Email Template](promotional-email-template.gif)](promotional-email-template.gif)
-
----
-
-## Event Invitation Email Template
-
-[![Event Invitation Email Template](event-invitation-email-template.gif)](event-invitation-email-template.gif)
+[![Promotional Email Template](first-project.gif)](first-project.gif)
 
 ---
 
