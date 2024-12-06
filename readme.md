@@ -30,12 +30,12 @@ This repository contains various email templates in GIF format. Click on any ima
 
 ## Promotional Email Template
 
-[![Promotional Email Template](email/product-promotion.gif)](https://shahebali247bd.github.io/course-project-1/)
+[![Promotional Email Template](email/product-promotion.gif)](https://shahebali247bd.github.io/product-promotion-1/)
 
 ---
 ## Promotional Email Template
 
-[![Promotional Email Template](email/product-promotion-2.gif)](https://shahebali247bd.github.io/course-project-1/)
+[![Promotional Email Template](email/product-promotion-2.gif)](https://shahebali247bd.github.io/product-promotion-2/)
 
 ---
 
