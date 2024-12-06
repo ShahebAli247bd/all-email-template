@@ -28,7 +28,7 @@ This repository contains various email templates in GIF format. Click on any ima
 
 ---
 
-## Feedback Request Email Template
+<!-- ## Feedback Request Email Template
 
 [![Feedback Request Email Template](feedback-request-email-template.gif)](feedback-request-email-template.gif)
 
@@ -36,7 +36,7 @@ This repository contains various email templates in GIF format. Click on any ima
 
 ## Contact Us Email Template
 
-[![Contact Us Email Template](contact-us-email-template.gif)](contact-us-email-template.gif)
+[![Contact Us Email Template](contact-us-email-template.gif)](contact-us-email-template.gif) -->
 
 ---
 
