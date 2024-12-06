@@ -6,25 +6,25 @@ This repository contains various email templates in GIF format. Click on any ima
 
 ## Event Invitation Email Template
 
-[![Event Invitation Email Template](course.gif)](https://shahebali247bd.github.io/Mastering-Email-Template-101/)
+[![Event Invitation Email Template](email/course.gif)](https://shahebali247bd.github.io/Mastering-Email-Template-101/)
 
 ---
 
 ## Welcome Email Template
 
-[![Welcome Email Template](profile.gif)](https://shahebali247bd.github.io/email-template-portfolio/)
+[![Welcome Email Template](email/profile.gif)](https://shahebali247bd.github.io/email-template-portfolio/)
 
 ---
 
 ## Newsletter Email Template
 
-[![Newsletter Email Template - Dacia Car](dacia.gif)](https://shahebali247bd.github.io/dacia-edm/)
+[![Newsletter Email Template - Dacia Car](email/dacia.gif)](https://shahebali247bd.github.io/dacia-edm/)
 
 ---
 
 ## Promotional Email Template
 
-[![Promotional Email Template](first-project.gif)](https://shahebali247bd.github.io/course-project-1/)
+[![Promotional Email Template](email/first-project.gif)](https://shahebali247bd.github.io/course-project-1/)
 
 ---
 
